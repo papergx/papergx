@@ -1,6 +1,6 @@
 # Kevin Boeffard
 
-Étudiant en BUT Informatique à l'IUT de Vannes (Université Bretagne Sud) — Président du BDE Informatique.
+Étudiant en BUT Informatique à l'IUT de Vannes (Université Bretagne Sud) - Président du BDE Informatique.
 
 🌐 **[kevinboeffard.fr](https://www.kevinboeffard.fr/)**
 
@@ -29,15 +29,15 @@
 
 ## 🚀 Projets
 
-- **[ScoDoc](https://github.com/kevinboeffard/scodoc)** — Application de gestion de scolarité (Java / JavaFX, architecture MVC + DAO, MySQL)
-- **RoadMiner** — Mod Minecraft Fabric open-source
-- *[En cours]* **Portfolio** — Site personnel React / TypeScript / Vite, déployé sur Vercel
+- **[ScoDoc](https://github.com/kevinboeffard/scodoc)** - Application de gestion de scolarité (Java / JavaFX, architecture MVC + DAO, MySQL)
+- **RoadMiner** - Mod Minecraft Fabric open-source
+- **Portfolio** - Site personnel React / TypeScript / Vite, déployé sur Vercel
 
 ---
 
 ## 🎯 Positionnement
 
-Stack principale orientée **Java (JavaFX, JDBC, MVC, Spring Boot)**, **React/TypeScript** et **SQL**, avec une spécialisation volontaire en **COBOL** pour cibler le secteur bancaire — un différenciateur sur un marché où la main-d'œuvre COBOL se raréfie.
+Stack principale orientée **Java (JavaFX, JDBC, MVC, Spring Boot)**, **React/TypeScript** et **SQL**, avec une spécialisation volontaire en **COBOL** pour cibler le secteur bancaire - un différenciateur sur un marché où la main-d'œuvre COBOL se raréfie.
 
 ---
 
