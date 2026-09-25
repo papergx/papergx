@@ -29,7 +29,7 @@
 
 - **[ScoDoc](https://github.com/kevinboeffard/scodoc)** - Application de gestion de scolarité (Java / JavaFX, architecture MVC + DAO, MySQL)
 - **RoadMiner** - Mod Minecraft Fabric open-source
-- **Portfolio** - Site personnel React / TypeScript / Vite, déployé sur Vercel
+- *[En cours]* **Portfolio** - Site personnel React / TypeScript / Vite, déployé sur Vercel
 
 ---
 
