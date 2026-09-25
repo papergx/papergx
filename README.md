@@ -1,6 +1,8 @@
 # Kevin Boeffard
 
-Étudiant en BUT Informatique à l'IUT de Vannes (Université Bretagne Sud) - Président du BDE Informatique.
+Étudiant en BUT Informatique à l'IUT de Vannes (Université Bretagne Sud) — Président du BDE Informatique.
+
+🌐 **[kevinboeffard.fr](https://www.kevinboeffard.fr/)**
 
 🎯 **Actuellement à la recherche d'un stage du 12 avril au 18 juin 2026 (10 semaines)**
 
@@ -27,21 +29,22 @@
 
 ## 🚀 Projets
 
-- **[ScoDoc](https://github.com/kevinboeffard/scodoc)** - Application de gestion de scolarité (Java / JavaFX, architecture MVC + DAO, MySQL)
-- **RoadMiner** - Mod Minecraft Fabric open-source
-- *[En cours]* **Portfolio** - Site personnel React / TypeScript / Vite, déployé sur Vercel
+- **[ScoDoc](https://github.com/kevinboeffard/scodoc)** — Application de gestion de scolarité (Java / JavaFX, architecture MVC + DAO, MySQL)
+- **RoadMiner** — Mod Minecraft Fabric open-source
+- *[En cours]* **Portfolio** — Site personnel React / TypeScript / Vite, déployé sur Vercel
 
 ---
 
 ## 🎯 Positionnement
 
-Stack principale orientée **Java (JavaFX, JDBC, MVC, Spring Boot)**, **React/TypeScript** et **SQL**, avec une spécialisation volontaire en **COBOL** pour cibler le secteur bancaire - un différenciateur sur un marché où la main-d'œuvre COBOL se raréfie.
+Stack principale orientée **Java (JavaFX, JDBC, MVC, Spring Boot)**, **React/TypeScript** et **SQL**, avec une spécialisation volontaire en **COBOL** pour cibler le secteur bancaire — un différenciateur sur un marché où la main-d'œuvre COBOL se raréfie.
 
 ---
 
 ## 📫 Me contacter
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kevinboeffard)
+[![Site web](https://img.shields.io/badge/Site-kevinboeffard.fr-000000?logo=googlechrome&logoColor=white)](https://www.kevinboeffard.fr/)
 [![Email](https://img.shields.io/badge/Email-Kevin.boeffard%40free.fr-D14836?logo=gmail&logoColor=white)](mailto:Kevin.boeffard@free.fr)
 
-📧 Kevin.boeffard@free.fr · 📱 07 67 40 35 17
+🌐 [kevinboeffard.fr](https://www.kevinboeffard.fr/) · 📧 Kevin.boeffard@free.fr · 📱 07 67 40 35 17
